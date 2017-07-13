@@ -1,7 +1,7 @@
 # phpbb-laravel-api-sso
 PHPBB Extension to authenticate with Laravel API (JWT)
 
-#Installation
+# Installation
 - Download phpBB
 - Uncompress it
 - go to localhost/{pathtphpbb}
@@ -16,8 +16,8 @@ PHPBB Extension to authenticate with Laravel API (JWT)
 - Copy the laravel folder in the /ext directory
 - Copy the parameters.yml in the /config/default directory
 
-#Set User as admin through database
+# Set User as admin through database
 -To set a user as an admin from the database: set user_permission as _a
 
-#Notes
+# Notes
 -If you change the config, remove the cache
